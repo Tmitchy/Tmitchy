@@ -12,6 +12,11 @@
 
 ---
 
+🎯 **Objective**  
+- 🔐 My journey in learning IT and stopping cyber crimes has led me to develop a passion for cybersecurity, and I am now eager to document my journey towards being a security Analyst.
+
+---
+
 🧰 **Languages & Tools**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
