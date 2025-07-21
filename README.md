@@ -8,7 +8,7 @@
 - 🧪 Passionate about **penetration testing**, **reverse engineering**, and **monitoring Data**  
 - 🛡️ Learning tools like **Wireshark, Burp Suite, Nmap, Metasploit, Splunk, Kali Linux**  
 - 🧠 Exploring certifications: **CompTIA Security+, Network+**  
-  🗂️ Building a personal **cyber lab** using VirtualBox  
+- 🗂️ Building a personal **cyber lab** using VirtualBox  
 
 ---
 
