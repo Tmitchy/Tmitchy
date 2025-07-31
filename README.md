@@ -52,7 +52,8 @@
 
 🏁 **Current Projects**  
 - Cisco-Tracer-Projects  
-- wireshark-traffic-Exploration 
+- wireshark-traffic-Exploration
+- Web Security Testing with OWASP ZAP
 - ...... 
 
 
