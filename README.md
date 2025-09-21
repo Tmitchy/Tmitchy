@@ -7,7 +7,7 @@
 - 🔐 I'm an Aspiring **Cybersecurity SOC Analyst and Cybersecurity Student** at the University of Gloucestershire, England.  
 - 🧪 Passionate about **penetration testing**, **reverse engineering**, and **monitoring Data**  
 - 🛡️ Learning tools like **Wireshark, Burp Suite, Nmap, Metasploit, Splunk, Kali Linux**  
-- 🧠 Exploring certifications: **CompTIA Security+, Network+**  
+- 🧠 Exploring certifications: **CompTIA Security+, Network+, Splunk, CYSA+**  
 - 🗂️ Building a personal **cyber lab** using VirtualBox  
 
 ---
