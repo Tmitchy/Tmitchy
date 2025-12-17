@@ -54,6 +54,7 @@
 - Cisco-Tracer-Projects  
 - wireshark-traffic-Exploration
 - Web Security Testing with OWASP ZAP
+- Data-Analytics-and-Machine-learning
 - ...... 
 
 
