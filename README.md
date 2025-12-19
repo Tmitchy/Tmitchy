@@ -47,7 +47,7 @@
 ---
 
 📫 **How to reach me**  
-<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-mitchell-c-ezenwugo-8749b020b/)<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitchellchidera10@gmail.com) 
+<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mitchell-c-ezenwugo-8749b020b/)<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitchellchidera10@gmail.com) 
 ---
 
 🏁 **Current Projects**  
