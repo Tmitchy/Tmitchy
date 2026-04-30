@@ -20,7 +20,7 @@
 🧰 **Languages & Tools**  
 <p align="center">
   <!-- Main Languages / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="150" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="200" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="60" height="60"/>
