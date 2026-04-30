@@ -18,20 +18,29 @@
 ---
 
 🧰 **Languages & Tools**  
-<p align=>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="300" height="260"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
-  <img width="80" height="90" alt="image" src="https://github.com/user-attachments/assets/7b8e5983-4c32-4480-bcad-b81b33f70d33" />
-  <img width="80" height="90" alt="image" src="https://github.com/user-attachments/assets/04947c20-c332-4754-b136-3f8e28a25647" />
-  <img width="80" height="90" alt="image" src="https://github.com/user-attachments/assets/a435dbb4-57dc-45c9-ad08-cfba1c6069e7" />
-  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/86a0090b-9afe-403d-a5a9-b228213a3d76" />
-  <img width="70" height="90" alt="image" src="https://github.com/user-attachments/assets/1bd146d6-9524-4d07-84fc-6116b6b24164" />
-  <img width="90" height="50" alt="image" src="https://github.com/user-attachments/assets/ecee262d-3fdd-4a10-8200-5fc73f037c96" /><br>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<p align="center">
+  <!-- Main Languages / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <!-- Custom / Additional Icons -->
+  <img src="https://github.com/user-attachments/assets/7b8e5983-4c32-4480-bcad-b81b33f70d33" width="70"/>
+  <img src="https://github.com/user-attachments/assets/04947c20-c332-4754-b136-3f8e28a25647" width="70"/>
+  <img src="https://github.com/user-attachments/assets/a435dbb4-57dc-45c9-ad08-cfba1c6069e7" width="70"/>
+  <img src="https://github.com/user-attachments/assets/86a0090b-9afe-403d-a5a9-b228213a3d76" width="70"/>
+  <img src="https://github.com/user-attachments/assets/1bd146d6-9524-4d07-84fc-6116b6b24164" width="70"/>
+  <img src="https://github.com/user-attachments/assets/ecee262d-3fdd-4a10-8200-5fc73f037c96" width="70"/>
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
 ---
