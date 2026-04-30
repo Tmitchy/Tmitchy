@@ -48,7 +48,7 @@
 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tmitchy&show_icons=true&theme=tokyonight"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tmitchy&theme=dark&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=Tmitchy&theme=dark&hide_border=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=Tmitchy&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
   
 </p>
