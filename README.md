@@ -36,7 +36,7 @@
   <img src="https://github.com/user-attachments/assets/ecee262d-3fdd-4a10-8200-5fc73f037c96" width="70"/>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Badges -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="250" height="60"/><br>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="250" height="60"/>
