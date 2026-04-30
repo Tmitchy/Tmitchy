@@ -28,15 +28,15 @@
 
 <p align="center">
   <!-- Custom / Additional Icons -->
-  <img src="https://github.com/user-attachments/assets/7b8e5983-4c32-4480-bcad-b81b33f70d33" width="70"/>
-  <img src="https://github.com/user-attachments/assets/04947c20-c332-4754-b136-3f8e28a25647" width="70"/>
-  <img src="https://github.com/user-attachments/assets/a435dbb4-57dc-45c9-ad08-cfba1c6069e7" width="70"/>
-  <img src="https://github.com/user-attachments/assets/86a0090b-9afe-403d-a5a9-b228213a3d76" width="70"/>
-  <img src="https://github.com/user-attachments/assets/1bd146d6-9524-4d07-84fc-6116b6b24164" width="70"/>
-  <img src="https://github.com/user-attachments/assets/ecee262d-3fdd-4a10-8200-5fc73f037c96" width="70"/>
+  <img src="https://github.com/user-attachments/assets/7b8e5983-4c32-4480-bcad-b81b33f70d33" width="250" height="60"/>
+  <img src="https://github.com/user-attachments/assets/04947c20-c332-4754-b136-3f8e28a25647" width="250" height="60"/>
+  <img src="https://github.com/user-attachments/assets/a435dbb4-57dc-45c9-ad08-cfba1c6069e7" width="250" height="60"/>
+  <img src="https://github.com/user-attachments/assets/86a0090b-9afe-403d-a5a9-b228213a3d76" width="250" height="60"/>
+  <img src="https://github.com/user-attachments/assets/1bd146d6-9524-4d07-84fc-6116b6b24164" width="250" height="60"/>
+  <img src="https://github.com/user-attachments/assets/ecee262d-3fdd-4a10-8200-5fc73f037c96" width="250" height="60"/>
 </p>
 
-<p>
+<p align="center">
   <!-- Badges -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="250" height="60"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="250" height="60"/>
