@@ -64,6 +64,7 @@
 - wireshark-traffic-Exploration
 - Web Security Testing with OWASP ZAP
 - Data-Analytics-and-Machine-learning
+- Web-Application-Security-Assessment
 - ...... 
 
 
