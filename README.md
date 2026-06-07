@@ -63,6 +63,8 @@
 - Web Security Testing with OWASP ZAP
 - Data-Analytics-and-Machine-learning
 - Web-Application-Security-Assessment
+- Investigating-and-Performing-Dynamic-Malware-Analysis
+- Investigating-and-Performing-Dynamic-Malware-Analysis-2
 - ...... 
 
 
