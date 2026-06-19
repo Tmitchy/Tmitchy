@@ -18,28 +18,27 @@
 ---
 
 🧰 **Languages & Tools**  
-<p align="center">
+
   <!-- Main Languages / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="60" height="60"/>
-</p>
-
-<p align="center">
-  <!-- Custom / Additional Icons -->
-  <img src="https://github.com/user-attachments/assets/7b8e5983-4c32-4480-bcad-b81b33f70d33" width="70"/>
-  <img src="https://github.com/user-attachments/assets/04947c20-c332-4754-b136-3f8e28a25647" width="70"/>
-  <img src="https://github.com/user-attachments/assets/a435dbb4-57dc-45c9-ad08-cfba1c6069e7" width="70" height="40"/>
-  <img src="https://github.com/user-attachments/assets/86a0090b-9afe-403d-a5a9-b228213a3d76" width="70" height="40"/>
-  <img src="https://github.com/user-attachments/assets/1bd146d6-9524-4d07-84fc-6116b6b24164" width="70" height="40"/>
-  <img src="https://github.com/user-attachments/assets/ecee262d-3fdd-4a10-8200-5fc73f037c96" width="70" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E5EAA?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
