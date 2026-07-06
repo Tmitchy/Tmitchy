@@ -57,13 +57,14 @@
 ---
 
 🏁 **Current Projects**  
-- Cisco-Tracer-Projects  
-- wireshark-traffic-Exploration
-- Web Security Testing with OWASP ZAP
+- [Cisco-Tracer-Projects](https://github.com/Tmitchy/Cisco-Tracer-Projects)
+- [wireshark-traffic-Exploration](https://github.com/Tmitchy/Wireshark-traffic-Exploration)
+- [Web Security Testing with OWASP ZAP](https://github.com/Tmitchy/OWASP-ZAP-Web-Security-)
 - [Data-Analytics-and-Machine-learning](https://github.com/Tmitchy/Data-Analytics-and-Machine-learning)
-- Web-Application-Security-Assessment
-- Investigating-and-Performing-Dynamic-Malware-Analysis
-- Investigating-and-Performing-Dynamic-Malware-Analysis-2
+- [Web-Application-Security-Assessment](https://github.com/Tmitchy/Web-Application-Security-Access_log-Assessment)
+- [Investigating-and-Performing-Dynamic-Malware-Analysis](https://github.com/Tmitchy/Investigating-and-Performing-Dynamic-Malware-Analysis)
+- [Investigating-and-Performing-Dynamic-Malware-Analysis-2](https://github.com/Tmitchy/Investigating-and-Performing-Dynamic-Malware-Analysis-2)
+- [Catch-the-Flag-CTF-Project](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project)
 - ...... 
 
 
