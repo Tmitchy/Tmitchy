@@ -66,6 +66,7 @@
 - [Investigating-and-Performing-Dynamic-Malware-Analysis-2](https://github.com/Tmitchy/Investigating-and-Performing-Dynamic-Malware-Analysis-2)
 - [Catch-the-Flag-CTF-Project](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project)
 - [LetsDefend-Monitoring-Alert](https://github.com/Tmitchy/LetsDefend-Monitoring-Alert)
+- [Analyzing-a-Phishing-Email](https://github.com/Tmitchy/Analyzing-a-Phishing-Email)
 - ...... 
 
 
