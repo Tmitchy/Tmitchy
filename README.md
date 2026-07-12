@@ -44,9 +44,11 @@
 
 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tmitchy&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br>
-  <img src="https://streak-stats.demolab.com/?user=Tmitchy&theme=dark&hide_border=true" /><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Tmitchy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tmitchy&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tmitchy&theme=dark&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tmitchy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
   
 </p>
 
