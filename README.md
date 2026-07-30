@@ -13,7 +13,7 @@
 ---
 
 🎯 **Objective**  
-- 🔐 My journey in IT and cybersecurity has driven my passion for defending against cyber threats and understanding how attacks are detected and prevented. Through hands-on projects and continuous learning, I am documenting my path toward becoming a skilled Security Analyst.
+- 🔐 **My journey in IT and cybersecurity has driven my passion for defending against cyber threats and understanding how attacks are detected and prevented. Through hands-on projects and continuous learning, I am documenting my path toward becoming a skilled Security Analyst.**
 
 ---
 
