@@ -44,13 +44,12 @@
 
 📊 **GitHub Stats**  
 
-
 <p align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=Tmitchy&theme=github-dark-blue&hide_border=true"/>
+  <img width="50%" src="https://streak-stats.demolab.com?user=Tmitchy&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tmitchy&theme=github-dark&hide_border=true"/>
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tmitchy&theme=github-dark&hide_border=true"/>
 
 ---
 
