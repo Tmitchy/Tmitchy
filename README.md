@@ -6,14 +6,14 @@
 🎯 **About Me**  
 - 🔐 I'm an Aspiring **Cybersecurity SOC Analyst and Cybersecurity Student** at the University of Gloucestershire (UK), currently based in Germany.  
 - 🧪 Passionate about **threat detection**, **incident response**, **SIEM technologies**, and **building practical cybersecurity skills through hands-on projects**.  
-- 🛡️ Learning tools like **Wireshark, Burp Suite, Nmap, Metasploit, Splunk, Kali Linux**  
+- 🛡️ Learning tools like **Wireshark**, **EDR**, **Nmap**, **Splunk/Elastic Search**, **Kali Linux**  
 - 🧠 Exploring certifications: **CompTIA Network+, Splunk, CYSA+, SC-200**  
-- 🗂️ Building a personal **cyber lab** using VirtualBox  
+- 🗂️ Building a personal **SOC lab** using VirtualBox  
 
 ---
 
 🎯 **Objective**  
-- 🔐 My journey in learning IT and stopping cyber crimes has led me to develop a passion for cybersecurity, and I am now eager to document my journey towards being a security Analyst.
+- 🔐 My journey in IT and cybersecurity has driven my passion for defending against cyber threats and understanding how attacks are detected and prevented. Through hands-on projects and continuous learning, I am documenting my path toward becoming a skilled Security Analyst.
 
 ---
 
