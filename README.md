@@ -44,10 +44,6 @@
 
 📊 **GitHub Stats**  
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tmitchy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmitchy&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 <p align="center">
   <img width="68%" src="https://streak-stats.demolab.com?user=Tmitchy&theme=github-dark-blue&hide_border=true"/>
