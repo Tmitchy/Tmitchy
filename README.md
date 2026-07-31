@@ -17,6 +17,29 @@
 
 ---
 
+## 🧭 SOC Journey — Where I Am Now
+
+Beyond individual projects, I'm actively documenting my full progression toward becoming a SOC Analyst — from building the lab environment, to practicing real incident handling. These two repositories track that journey end to end:
+
+| Repo | What it shows | Status |
+|---|---|---|
+| 🖥️ [**SOC Home Lab Build**](https://github.com/Tmitchy/SOC-Home-Lab-Build) | How I'm standing up my lab — Windows 11, Windows Server, Ubuntu Server, Ubuntu Desktop — and configuring each to forward logs, ahead of introducing a SIEM | 🟡 In Progress — Stage 1 complete, SIEM integration next |
+| 🚨 [**SOC Incident Documentation**](https://github.com/Tmitchy/SOC-Incident-Documentation) | Structured write-ups of every incident I work through on LetsDefend — full triage-to-resolution reasoning, not just "completed" | 🟢 Live — template set, entries added as incidents are completed |
+
+**Why this matters:** together these two repos show both halves of SOC work — *building the environment that generates the data*, and *doing the analysis on that data once it exists*. Most student portfolios show one or the other. I'm building both, out in the open, as I go.
+
+---
+
+## 🔜 What's Next
+
+- [ ] Finish log shipper configuration (Winlogbeat/Filebeat) across all 4 lab VMs
+- [ ] Stand up the SIEM (Elastic Stack) and connect all log sources
+- [ ] Publish first entries in the Incident Documentation log from LetsDefend practice
+- [ ] Build first custom detection rules (Sigma) mapped to MITRE ATT&CK
+- [ ] Document a full end-to-end incident: detection in my own lab → investigation → response
+
+---
+
 🧰 **Languages & Tools**  
 
   <!-- Main Languages / Tools -->
@@ -68,35 +91,6 @@
 - [Catch-the-Flag-CTF-Project](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project)
 - [LetsDefend-Monitoring-Alert](https://github.com/Tmitchy/LetsDefend-Monitoring-Alert)
 - [Analyzing-a-Phishing-Email](https://github.com/Tmitchy/Analyzing-a-Phishing-Email)
+- [**SOC Home Lab Build**](https://github.com/Tmitchy/SOC-Home-Lab-Build) *(new)*
+- [**SOC Incident Documentation**](https://github.com/Tmitchy/SOC-Incident-Documentation) *(new)*
 - ...... 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Tmitchy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
