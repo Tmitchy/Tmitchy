@@ -23,7 +23,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 
 | Repo | What it shows | Status |
 |---|---|---|
-| 🖥️ [**SOC Home Lab Build**](https://github.com/Tmitchy/SOC-Home-Lab-Build](https://github.com/Tmitchy/-SOC-Home-Lab-Build)) | I'm setting up my lab with Windows 11, Windows Server, Ubuntu Server, and Ubuntu Desktop, configuring each to forward logs in preparation for introducing a SIEM. | 🟡 In Progress — Stage 1 complete, SIEM integration next |
+| 🖥️ [**SOC Home Lab Build**](https://github.com/Tmitchy/-SOC-Home-Lab-Build) | I'm setting up my lab with Windows 11, Windows Server, Ubuntu Server, and Ubuntu Desktop, configuring each to forward logs in preparation for introducing a SIEM. | 🟡 In Progress — Stage 1 complete, SIEM integration next |
 | 🚨 [**SOC Incident Documentation**](https://github.com/Tmitchy/SOC-Incident-Documentation) | Detailed documentation of every incident I handle on LetsDefend, providing full triage-to-resolution reasoning instead of simply marking them as "completed." | 🟢 Live — template set, entries added as incidents are completed |
 
 **Why this matters:** together these two repos show both halves of SOC work *building the environment that generates the data*, and *doing the analysis on that data once it exists*. Most student portfolios show one or the other. I'm building both, out in the open, as I go.
@@ -91,6 +91,6 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 - [Catch-the-Flag-CTF-Project](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project)
 - [LetsDefend-Monitoring-Alert](https://github.com/Tmitchy/LetsDefend-Monitoring-Alert)
 - [Analyzing-a-Phishing-Email](https://github.com/Tmitchy/Analyzing-a-Phishing-Email)
-- [**SOC Home Lab Build**](https://github.com/Tmitchy/SOC-Home-Lab-Build](https://github.com/Tmitchy/-SOC-Home-Lab-Build)) *(new)*
+- [**SOC Home Lab Build**](https://github.com/Tmitchy/-SOC-Home-Lab-Build) *(new)*
 - [**SOC Incident Documentation**](https://github.com/Tmitchy/SOC-Incident-Documentation) *(new)*
 - ...... 
