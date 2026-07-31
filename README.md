@@ -91,6 +91,6 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 - [Catch-the-Flag-CTF-Project](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project)
 - [LetsDefend-Monitoring-Alert](https://github.com/Tmitchy/LetsDefend-Monitoring-Alert)
 - [Analyzing-a-Phishing-Email](https://github.com/Tmitchy/Analyzing-a-Phishing-Email)
-- [**SOC Home Lab Build**]([https://github.com/Tmitchy/SOC-Home-Lab-Build](https://github.com/Tmitchy/-SOC-Home-Lab-Build)) *(new)*
+- [**SOC Home Lab Build**](https://github.com/Tmitchy/SOC-Home-Lab-Build](https://github.com/Tmitchy/-SOC-Home-Lab-Build)) *(new)*
 - [**SOC Incident Documentation**](https://github.com/Tmitchy/SOC-Incident-Documentation) *(new)*
 - ...... 
