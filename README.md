@@ -8,7 +8,6 @@
 -  Passionate about **threat detection**, **incident response**, **SIEM technologies**, and **building practical cybersecurity skills through hands-on projects**.  
 -  Learning tools like **Wireshark**, **EDR**, **Nmap**, **Splunk/Elastic Search**, **Kali Linux**, **Domain Controller**  
 -  Exploring certifications: **CompTIA Network+, Splunk, CYSA+, SC-200**  
--  Building a personal **SOC lab** using VirtualBox  
 
 ---
 
