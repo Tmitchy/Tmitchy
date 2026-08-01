@@ -17,7 +17,7 @@
 
 ---
 
-## 🧭 SOC Journey — Where I Am Now
+## 🧭 SOC Journey - Where I Am Now
 
 Beyond individual projects, I'm actively documenting my full progression toward becoming a SOC Analyst, from building the lab environment to practicing real incident handling. These two repositories track that journey end-to-end:
 
