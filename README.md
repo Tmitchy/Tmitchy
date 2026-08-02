@@ -5,14 +5,16 @@
 
 🎯 **About Me**  
 -  I'm an Aspiring **Cybersecurity SOC Analyst and Cybersecurity Student** at the University of Gloucestershire (UK), currently based in Germany.  
--  Passionate about **threat detection**, **incident response**, **SIEM technologies**, and **building practical cybersecurity skills through hands-on projects**.  
+-  Passionate about **threat detection**, **incident response**, **SIEM technologies**.  
 -  Learning tools like **Wireshark**, **EDR**, **Nmap**, **Splunk/Elastic Search**, **Kali Linux**, **Domain Controller**  
--  Exploring certifications: **CompTIA Network+, Splunk, CYSA+, SC-200**  
+-  Exploring certifications: **Splunk**, **CYSA+**, **SC-200**
+-  Completed Certifications: **CompTIA Network+**, **LetsDefend SOC Analyst Learning Path**, **Cybersecurity for Students Learning Path**
+-  Currently Pursuing: **CYSA+**  
 
 ---
 
 🎯 **Objective**  
-- 🔐 **My journey in IT and cybersecurity has driven my passion for defending against cyber threats and understanding how attacks are detected and prevented. Through hands-on projects and continuous learning, I am documenting my path toward becoming a skilled Security Analyst.**
+- **My journey in IT/cybersecurity has driven my passion for defending against cyber threats and understanding how attacks are detected and prevented.**
 
 ---
 
@@ -26,17 +28,16 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 | 🚨 [**SOC Incident Documentation**](https://github.com/Tmitchy/-SOC-Incident-Documentation) | Detailed documentation of every incident I handle on LetsDefend, providing full triage-to-resolution reasoning instead of simply marking them as "completed." | 🟢 Live - template set, entries added as incidents are completed |
 | **Python Security Tools** |  |  |
 
-**Why this matters:** together these two repos show both halves of SOC work *building the environment that generates the data*, and *doing the analysis on that data once it exists*. Most student portfolios show one or the other. I'm building both, out in the open, as I go.
+**Why this matters:** These two repos demonstrate both halves of SOC work: *creating the environment that generates data* and *analyzing that data afterward*. While most student portfolios focus on one aspect, I'm developing both transparently as I progress.
 
 ---
 
-## 🔜 What's Next
+## 🔜 Project-focused
 
-- [ ] Finish log shipper configuration (Winlogbeat/Filebeat) across all 4 lab VMs
-- [ ] Stand up the SIEM (Elastic Stack) and connect all log sources
-- [ ] Publish first entries in the Incident Documentation log from LetsDefend practice
-- [ ] Build first custom detection rules (Sigma) mapped to MITRE ATT&CK
-- [ ] Document a full end-to-end incident: detection in my own lab → investigation → response
+- [ ] Python Security Tools
+- [ ] EDR analysis
+- [ ] Detection engineering
+- [ ] Case studies
 
 ---
 
@@ -76,7 +77,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 
 ---
 
-📫 **How to reach me**  
+📫 **Let's Connect**  
 <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitchell-c-ezenwugo-8749b020b/)<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitchellchidera10@gmail.com) 
 ---
 
