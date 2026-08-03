@@ -51,6 +51,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
 
 **SIEM & Log Analysis:**
 
