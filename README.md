@@ -48,7 +48,6 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 
 **Virtualization & OS**
 
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -60,6 +59,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 ![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Fleet](https://img.shields.io/badge/Fleet-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
 **Security & Pentesting Tools**
 
