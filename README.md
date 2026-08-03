@@ -37,7 +37,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 - [ ] Python Security Tools
 - [ ] EDR analysis
 - [ ] Detection engineering
-- [ ] Case studies
+- [x] Case studies
 
 ---
 
