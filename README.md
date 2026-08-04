@@ -35,6 +35,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 ## 🔜 Project-focused
 
 - [ ] Python Security Tools
+- [x] SIEM Intro
 - [ ] EDR analysis
 - [ ] Detection engineering
 - [x] Case studies
