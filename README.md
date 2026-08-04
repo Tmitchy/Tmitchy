@@ -1,7 +1,7 @@
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Prince+Mitchell+%F0%9F%91%8B;Aspiring+SOC+Analyst;Cybersecurity+Student+%7C+Blue+Team" alt="Typing SVG" />
   <h3>🛡️ Aspiring SOC Analyst & Cybersecurity Student</h3>
-  <p>Building and defending my own SOC lab — from the ground up, one incident at a time.</p>
+  <p>Building and defending my own SOC lab.</p>
   <p>
     <img src="https://img.shields.io/badge/Focus-SOC%20%26%20Incident%20Response-1E293B?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Stack-Elastic%20%7C%20Fleet%20%7C%20pfSense-334155?style=flat-square" alt="Stack" />
