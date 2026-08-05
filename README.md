@@ -35,7 +35,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 |---|---|---|
 | 🖥️ [**SOC Home Lab Build**](https://github.com/Tmitchy/-SOC-Home-Lab-Build) | I'm setting up my lab with a firewall (Pfsense), Windows 11, Windows Server(DC), Ubuntu Server, and Ubuntu Desktop, configuring each to forward logs in preparation for introducing a SIEM. | 🟡 In Progress - Stage 1 complete, SIEM integration next |
 | 🚨 [**SOC Incident Documentation**](https://github.com/Tmitchy/-SOC-Incident-Documentation) | Detailed documentation of every incident I handle on LetsDefend, providing full triage-to-resolution reasoning instead of simply marking them as "completed." | 🟢 Live - template set, entries added as incidents are completed |
-| [**Python Security Tools**]() | *(in progres...)* |  |
+| [**Python Security Tools**](https://github.com/Tmitchy/Python-Security-Tools) | *(in progres...)* |  |
 
 **Why this matters:** These two repos demonstrate both halves of SOC work: *creating the environment that generates data* and *analyzing that data afterward*. While most student portfolios focus on one aspect, I'm developing both transparently as I progress.
 
