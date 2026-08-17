@@ -33,7 +33,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 
 | Repo | What it shows | Status |
 |---|---|---|
-| 🖥️ [**SOC Home Lab Build**](https://github.com/Tmitchy/-SOC-Home-Lab-Build) | I'm setting up my lab with a firewall (Pfsense), Windows 11, Windows Server(DC), Ubuntu Server, and Ubuntu Desktop, configuring each to forward logs in preparation for introducing a SIEM. | 🟢 Live - includes a real, documented outage that lasted approximately 4 weeks, which has been identified and resolved. |
+| 🖥️ [**SOC Home Lab Build**](https://github.com/Tmitchy/-SOC-Home-Lab-Build) | Full pipeline live - firewall through SIEM dashboard, end-to-end. pfSense, all endpoints (Windows 11, DC, Ubuntu Server, Ubuntu Image), Elastic Stack, and Logstash were all confirmed to work with real data. | 🟢 Live - includes a real, documented outage lasting approximately 4 weeks that has been identified and resolved. |
 | 🚨 [**SOC Incident Documentation**](https://github.com/Tmitchy/-SOC-Incident-Documentation) | Detailed documentation of every incident I handle on LetsDefend, providing full triage-to-resolution reasoning instead of simply marking them as "completed." | 🟢 Live - template set, entries added as incidents are completed. |
 | [**Python Security Tools**](https://github.com/Tmitchy/Python-Security-Tools) | *(in progres...)* |  |
 
