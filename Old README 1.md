@@ -19,7 +19,7 @@
 
 ## 🧭 SOC Journey — Where I Am Now
 
-Beyond individual projects, I'm actively documenting my full progression toward becoming a SOC Analyst — from building the lab environment, to practicing real incident handling. These two repositories track that journey end to end:
+Beyond individual projects, I'm actively documenting my full progression toward becoming a SOC Analyst — from building the lab environment to practicing real incident handling. These two repositories track that journey end to end:
 
 | Repo | What it shows | Status |
 |---|---|---|
@@ -65,32 +65,7 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 
 ---
 
-📊 **GitHub Stats**  
-
-<p align="center">
-  <img width="50%" src="https://streak-stats.demolab.com?user=Tmitchy&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tmitchy&theme=github-dark&hide_border=true"/>
-
----
-
 📫 **How to reach me**  
 <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitchell-c-ezenwugo-8749b020b/)<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitchellchidera10@gmail.com) 
----
 
-🏁 **Current Projects**  
-- [Cisco-Tracer-Projects](https://github.com/Tmitchy/Cisco-Tracer-Projects)
-- [wireshark-traffic-Exploration](https://github.com/Tmitchy/Wireshark-traffic-Exploration)
-- [Web Security Testing with OWASP ZAP](https://github.com/Tmitchy/OWASP-ZAP-Web-Security-)
-- [Data-Analytics-and-Machine-learning](https://github.com/Tmitchy/Data-Analytics-and-Machine-learning)
-- [Web-Application-Security-Assessment](https://github.com/Tmitchy/Web-Application-Security-Access_log-Assessment)
-- [Investigating-and-Performing-Dynamic-Malware-Analysis](https://github.com/Tmitchy/Investigating-and-Performing-Dynamic-Malware-Analysis)
-- [Investigating-and-Performing-Dynamic-Malware-Analysis-2](https://github.com/Tmitchy/Investigating-and-Performing-Dynamic-Malware-Analysis-2)
-- [Catch-the-Flag-CTF-Project](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project)
-- [LetsDefend-Monitoring-Alert](https://github.com/Tmitchy/LetsDefend-Monitoring-Alert)
-- [Analyzing-a-Phishing-Email](https://github.com/Tmitchy/Analyzing-a-Phishing-Email)
-- [**SOC Home Lab Build**](https://github.com/Tmitchy/SOC-Home-Lab-Build) *(new)*
-- [**SOC Incident Documentation**](https://github.com/Tmitchy/SOC-Incident-Documentation) *(new)*
-- ...... 
+---
