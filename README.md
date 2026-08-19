@@ -117,7 +117,6 @@ Beyond individual projects, I'm actively documenting my full progression toward 
 - [Investigating-and-Performing-Dynamic-Malware-Analysis](https://github.com/Tmitchy/Investigating-and-Performing-Dynamic-Malware-Analysis)
 - [Investigating-and-Performing-Dynamic-Malware-Analysis-2](https://github.com/Tmitchy/Investigating-and-Performing-Dynamic-Malware-Analysis-2)
 - [Catch-the-Flag-CTF-Project](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project)
-- [LetsDefend-Monitoring-Alert](https://github.com/Tmitchy/-SOC-Incident-Documentation/blob/main/investigations/001-Malicious-FileScript-Download-Attempt-Alert.md)
 - [Analyzing-a-Phishing-Email](https://github.com/Tmitchy/Analyzing-a-Phishing-Email)
 - [**SOC Home Lab Build**](https://github.com/Tmitchy/-SOC-Home-Lab-Build) *(new)*
 - [**SOC Incident Documentation**](https://github.com/Tmitchy/-SOC-Incident-Documentation) *(new)*
