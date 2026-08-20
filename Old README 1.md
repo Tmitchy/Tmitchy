@@ -17,16 +17,16 @@
 
 ---
 
-## 🧭 SOC Journey — Where I Am Now
+## 🧭 SOC Journey - Where I Am Now
 
-Beyond individual projects, I'm actively documenting my full progression toward becoming a SOC Analyst — from building the lab environment to practicing real incident handling. These two repositories track that journey end to end:
+Beyond individual projects, I'm actively documenting my full progression toward becoming a SOC Analyst, from building the lab environment to practicing real incident handling. These two repositories track that journey end to end:
 
 | Repo | What it shows | Status |
 |---|---|---|
-| 🖥️ [**SOC Home Lab Build**](https://github.com/Tmitchy/SOC-Home-Lab-Build) | How I'm standing up my lab — Windows 11, Windows Server, Ubuntu Server, Ubuntu Desktop — and configuring each to forward logs, ahead of introducing a SIEM | 🟡 In Progress — Stage 1 complete, SIEM integration next |
-| 🚨 [**SOC Incident Documentation**](https://github.com/Tmitchy/SOC-Incident-Documentation) | Structured write-ups of every incident I work through on LetsDefend — full triage-to-resolution reasoning, not just "completed" | 🟢 Live — template set, entries added as incidents are completed |
+| 🖥️ [**SOC Home Lab Build**](https://github.com/Tmitchy/SOC-Home-Lab-Build) | How I'm standing up my lab - Windows 11, Windows Server, Ubuntu Server, Ubuntu Desktop, and configuring each to forward logs, ahead of introducing a SIEM | 🟡 In Progress - Stage 1 complete, SIEM integration next |
+| 🚨 [**SOC Incident Documentation**](https://github.com/Tmitchy/SOC-Incident-Documentation) | Structured write-ups of every incident I work through on LetsDefendfull triage-to-resolution reasoning, not just "completed" | 🟢 Live - template set, entries added as incidents are completed |
 
-**Why this matters:** together these two repos show both halves of SOC work — *building the environment that generates the data*, and *doing the analysis on that data once it exists*. Most student portfolios show one or the other. I'm building both, out in the open, as I go.
+**Why this matters:** together these two repos show both halves of SOC work - *building the environment that generates the data*, and *doing the analysis on that data once it exists*. Most student portfolios show one or the other. I'm building both, out in the open, as I go.
 
 ---
 
